@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+    android:id="@+id/plus"
+    android:icon="@drawable/ic_action_content_new"
+    android:title="Add"
+    android:showAsAction="always"
+    tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/go"
+        android:icon="@drawable/ic_action_content_forward"
+        android:title="Go"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+</menu>
